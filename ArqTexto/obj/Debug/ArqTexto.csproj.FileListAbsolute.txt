@@ -1,0 +1,16 @@
+F:\Programação e Algorítmos\ArqTexto\ArqTexto\bin\Debug\ArqTexto.exe.config
+F:\Programação e Algorítmos\ArqTexto\ArqTexto\bin\Debug\ArqTexto.exe
+F:\Programação e Algorítmos\ArqTexto\ArqTexto\bin\Debug\ArqTexto.pdb
+F:\Programação e Algorítmos\ArqTexto\ArqTexto\obj\Debug\ArqTexto.csprojResolveAssemblyReference.cache
+F:\Programação e Algorítmos\ArqTexto\ArqTexto\obj\Debug\ArqTexto.MainForm.resources
+F:\Programação e Algorítmos\ArqTexto\ArqTexto\obj\Debug\ArqTexto.csproj.GenerateResource.Cache
+F:\Programação e Algorítmos\ArqTexto\ArqTexto\obj\Debug\ArqTexto.exe
+F:\Programação e Algorítmos\ArqTexto\ArqTexto\obj\Debug\ArqTexto.pdb
+D:\Programação e Algorítmos\ArqTexto\ArqTexto\bin\Debug\ArqTexto.exe.config
+D:\Programação e Algorítmos\ArqTexto\ArqTexto\bin\Debug\ArqTexto.exe
+D:\Programação e Algorítmos\ArqTexto\ArqTexto\bin\Debug\ArqTexto.pdb
+D:\Programação e Algorítmos\ArqTexto\ArqTexto\obj\Debug\ArqTexto.csprojResolveAssemblyReference.cache
+D:\Programação e Algorítmos\ArqTexto\ArqTexto\obj\Debug\ArqTexto.MainForm.resources
+D:\Programação e Algorítmos\ArqTexto\ArqTexto\obj\Debug\ArqTexto.csproj.GenerateResource.Cache
+D:\Programação e Algorítmos\ArqTexto\ArqTexto\obj\Debug\ArqTexto.exe
+D:\Programação e Algorítmos\ArqTexto\ArqTexto\obj\Debug\ArqTexto.pdb
